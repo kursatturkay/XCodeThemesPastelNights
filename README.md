@@ -13,10 +13,16 @@ To install:
 
 ---
 
-Chalky:
+Pastel Nights California:
 
-![chalky](https://raw.github.com/jpwidmer/Xcode-themes/master/chalky.png)
+![chalky](./PastelNightsCA.png)
 
-Spaceage:
+Pastel Nights California 1:
+![spaceage](./PastelNightsCA1.png)
 
-![spaceage](https://raw.github.com/jpwidmer/Xcode-themes/master/spaceage.png)
+Pastel Nights California 2:
+![spaceage](./PastelNightsCA2.png)
+
+
+Pastel Nights California 3:
+![spaceage](./PastelNightsCA3.png)
